@@ -1,0 +1,41 @@
+file(REMOVE_RECURSE
+  ".qt/rcc/qrc_appuntitled1_raw_qml_0.cpp"
+  ".qt/rcc/qrc_qmake_untitled1.cpp"
+  ".rcc/qmlcache/appuntitled1_Main_qml.cpp"
+  ".rcc/qmlcache/appuntitled1_Main_qml.cpp.aotstats"
+  ".rcc/qmlcache/appuntitled1_qmlcache_loader.cpp"
+  "CMakeFiles/appuntitled1_autogen.dir/AutogenUsed.txt"
+  "CMakeFiles/appuntitled1_autogen.dir/ParseCache.txt"
+  "appuntitled1_autogen"
+  "CMakeFiles/appuntitled1.dir/appuntitled1_autogen/mocs_compilation.cpp.o"
+  "CMakeFiles/appuntitled1.dir/appuntitled1_autogen/mocs_compilation.cpp.o.d"
+  "CMakeFiles/appuntitled1.dir/appuntitled1_qmltyperegistrations.cpp.o"
+  "CMakeFiles/appuntitled1.dir/appuntitled1_qmltyperegistrations.cpp.o.d"
+  "CMakeFiles/appuntitled1.dir/build/.qt/rcc/qrc_appuntitled1_raw_qml_0.cpp.o"
+  "CMakeFiles/appuntitled1.dir/build/.qt/rcc/qrc_appuntitled1_raw_qml_0.cpp.o.d"
+  "CMakeFiles/appuntitled1.dir/build/.qt/rcc/qrc_qmake_untitled1.cpp.o"
+  "CMakeFiles/appuntitled1.dir/build/.qt/rcc/qrc_qmake_untitled1.cpp.o.d"
+  "CMakeFiles/appuntitled1.dir/build/.rcc/qmlcache/appuntitled1_Main_qml.cpp.o"
+  "CMakeFiles/appuntitled1.dir/build/.rcc/qmlcache/appuntitled1_Main_qml.cpp.o.d"
+  "CMakeFiles/appuntitled1.dir/build/.rcc/qmlcache/appuntitled1_qmlcache_loader.cpp.o"
+  "CMakeFiles/appuntitled1.dir/build/.rcc/qmlcache/appuntitled1_qmlcache_loader.cpp.o.d"
+  "CMakeFiles/appuntitled1.dir/calculator.cpp.o"
+  "CMakeFiles/appuntitled1.dir/calculator.cpp.o.d"
+  "CMakeFiles/appuntitled1.dir/main.cpp.o"
+  "CMakeFiles/appuntitled1.dir/main.cpp.o.d"
+  "appuntitled1.app/Contents/MacOS/appuntitled1"
+  "appuntitled1.pdb"
+  "appuntitled1_autogen/mocs_compilation.cpp"
+  "appuntitled1_autogen/timestamp"
+  "appuntitled1_qmltyperegistrations.cpp"
+  "meta_types/appuntitled1_json_file_list.txt"
+  "meta_types/appuntitled1_json_file_list.txt.timestamp"
+  "meta_types/qt6appuntitled1_debug_metatypes.json"
+  "meta_types/qt6appuntitled1_debug_metatypes.json.gen"
+  "untitled1/appuntitled1.qmltypes"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang CXX)
+  include(CMakeFiles/appuntitled1.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()

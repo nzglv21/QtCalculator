@@ -1,0 +1,64 @@
+[
+    {
+        "classes": [
+            {
+                "classInfos": [
+                    {
+                        "name": "QML.Element",
+                        "value": "auto"
+                    }
+                ],
+                "className": "Calculator",
+                "lineNumber": 9,
+                "object": true,
+                "qualifiedClassName": "Calculator",
+                "slots": [
+                    {
+                        "access": "public",
+                        "arguments": [
+                            {
+                                "name": "text",
+                                "type": "QString"
+                            }
+                        ],
+                        "index": 0,
+                        "name": "onButtonPressed",
+                        "returnType": "void"
+                    },
+                    {
+                        "access": "public",
+                        "arguments": [
+                            {
+                                "name": "op",
+                                "type": "QString"
+                            }
+                        ],
+                        "index": 1,
+                        "name": "onOperationButtonPressed",
+                        "returnType": "void"
+                    },
+                    {
+                        "access": "public",
+                        "arguments": [
+                            {
+                                "name": "number",
+                                "type": "QString"
+                            }
+                        ],
+                        "index": 2,
+                        "name": "onNumberButtonPressed",
+                        "returnType": "void"
+                    }
+                ],
+                "superClasses": [
+                    {
+                        "access": "public",
+                        "name": "QObject"
+                    }
+                ]
+            }
+        ],
+        "inputFile": "calculator.h",
+        "outputRevision": 69
+    }
+]

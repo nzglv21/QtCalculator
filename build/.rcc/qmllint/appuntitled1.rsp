@@ -1,0 +1,10 @@
+--bare
+-I
+/Users/arslanniazgulov/untitled1/build
+-I
+/opt/homebrew/share/qt/qml
+--resource
+/Users/arslanniazgulov/untitled1/build/.qt/rcc/qmake_untitled1.qrc
+--resource
+/Users/arslanniazgulov/untitled1/build/.qt/rcc/appuntitled1_raw_qml_0.qrc
+/Users/arslanniazgulov/untitled1/Main.qml

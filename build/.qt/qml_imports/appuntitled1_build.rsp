@@ -1,0 +1,14 @@
+-rootPath
+/Users/arslanniazgulov/untitled1
+-cmake-output
+-output-file
+/Users/arslanniazgulov/untitled1/build/.qt/qml_imports/appuntitled1_build.cmake
+-importPath
+/Users/arslanniazgulov/untitled1/build/untitled1
+-importPath
+/Users/arslanniazgulov/untitled1/build
+-importPath
+/opt/homebrew/share/qt/qml
+-qrcFiles
+/Users/arslanniazgulov/untitled1/build/.qt/rcc/qmake_untitled1.qrc
+/Users/arslanniazgulov/untitled1/build/.qt/rcc/appuntitled1_raw_qml_0.qrc
