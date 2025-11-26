@@ -1,2 +1,0 @@
-set(__QT_DEPLOY_TARGET_appuntitled1_FILE /Users/arslanniazgulov/untitled1/build/appuntitled1.app/Contents/MacOS/appuntitled1)
-set(__QT_DEPLOY_TARGET_appuntitled1_TYPE EXECUTABLE)
